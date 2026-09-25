@@ -1,0 +1,6 @@
+[core]
+    remote = dagshub-s3
+['remote "dagshub-s3"']
+    url = s3://mlp-digits-mlops/dvc
+    endpointurl = https://dagshub.com/api/v1/repo-buckets/s3/JVISERASS
+    region = us-east-1
